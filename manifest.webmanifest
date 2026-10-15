@@ -1,1 +1,24 @@
-{"name":"My Year 33 — Daily Reset","short_name":"My Year 33","description":"Personal PhD, smoke-free, and eco-farm dream tracker","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f5f7f2","theme_color":"#173f32","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "My Year 33",
+  "short_name": "Year 33",
+  "description": "Personal PhD, smoke-free, and eco-farm dream tracker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f2",
+  "theme_color": "#173f32",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
